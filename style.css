@@ -1,4 +1,4 @@
-#red{color:red;}
+#red{color: red;}
 #blue{color: rgb(0, 195, 255); }
 #orange{color: orange;}
 #green{color: green;}
@@ -8,3 +8,5 @@
 
 img{width: 200px; height: 200px;}
 *{background-color: black;}
+h1{color: white;}
+h2{color: white;}
